@@ -14,8 +14,8 @@
 *.jar
 *.war
 *.nar
-*.ear
 *.zip
+*.ear
 *.tar.gz
 *.rar
 
