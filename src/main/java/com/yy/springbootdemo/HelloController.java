@@ -26,7 +26,6 @@ public class HelloController {
 //        return content;
 //          return girlProperties.getCupSize();
 //        return "index";
-        age = 20;
         return "id: " + id + "age: " + age;
     }
 }
